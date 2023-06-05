@@ -1,7 +1,3 @@
-# GitHub_Cover
-To store a Read Me file for displaying on Github 
-
-
 <h1 align="center"> Hi there 👋, I'm Jonathan!</h1>
 <h3 align="center"> I'm a full-stack engineer with a focus on the frontend and databases. Utilizing JavaScript coupled with React and Node.js to create modularized front end designs and efficient routing structures with declarative middleware syntax to interface with SQL database instances. I enjoy putting time on open source projects and contributing to the greater coding community. </h3>
 <h3 align="center"> ... </h3>
@@ -9,7 +5,7 @@ To store a Read Me file for displaying on Github
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-<a href="mailto:jonwong000@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Jonathan_Wong_Email" /></a>>
+<a href="mailto:jonwong000@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Jonathan_Wong_Email" /></a>
 <a href="https://www.linkedin.com/in/jon-wong-00/" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jonathan_Wong_LinkedIn" /></a>
 
 </div>
